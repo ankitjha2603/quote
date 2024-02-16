@@ -1,7 +1,3 @@
-# Your Chrome Extension Name
-
-## Description
-
 Welcome! This extension serves you with inspirational quotes written by me every time you click. It's a simple way to bring positivity to your browsing experience.
 
 ![Example GIF](assets/img/recording.gif)
