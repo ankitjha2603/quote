@@ -1,0 +1,28 @@
+body {
+    width: 450px;
+    height: fit-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.quote {
+    margin: 10px;
+    font-size: 1.3em;
+}
+
+.by {
+    margin: 10px;
+    align-self: flex-end;
+    font-size: 1.1em;
+    display: none;
+}
+
+a.read-more {
+    width: 100%;
+    margin-top: 5px;
+    padding-left: 20px;
+    cursor: pointer;
+    display: none;
+}
