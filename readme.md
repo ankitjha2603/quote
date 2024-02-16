@@ -4,6 +4,8 @@
 
 Welcome! This extension serves you with inspirational quotes written by me every time you click. It's a simple way to bring positivity to your browsing experience.
 
+![Example GIF](assets/img/recording.gif)
+
 ## Features
 
 - Click to receive a random quote.
@@ -21,7 +23,3 @@ Welcome! This extension serves you with inspirational quotes written by me every
 ## Usage
 
 - Click on the extension icon in your Chrome toolbar to receive a new quote instantly.
-
-## Screenshots
-
-![Example GIF](assets/img/recording.gif)
